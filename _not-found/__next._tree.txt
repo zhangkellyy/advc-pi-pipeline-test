@@ -1,2 +1,4 @@
 :HL["/advc-pi-pipeline-test/_next/static/css/f9efb2cc47f90695.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"A9X-EEDOvrb1FkV51eCtg"}
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"3B0DdN2oJ0gmBpMFHYrfL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
